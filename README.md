@@ -18,5 +18,6 @@ Our multi-stage transfer learning framework robustly outperformed all baseline m
 ### Conclusion
 This framework offers a statistically validated, high-performing solution for detecting stigmatizing language in EHRs, supporting responsible AI and promoting equity in clinical care.
 
+
 # Codes and requirements
 Thank you for your interest in the reproducibility of our work. We recognize the importance of open science and are committed to sharing our code to support transparency and further research. We are in the process of preparing the software source code for public release and will be ready soon.
