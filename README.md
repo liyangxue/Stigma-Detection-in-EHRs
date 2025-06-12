@@ -1,6 +1,6 @@
-This repository contains code and experiments for the paper:
-
+# This repository contains code and experiments for the paper:
 # Automated Detection of Stigmatizing Language in Electronic Health Records (EHRs) Using a Multi-stage Transfer Learning Approach
+
 
 ## Abstract:
 ### Objective
